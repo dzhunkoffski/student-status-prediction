@@ -28,4 +28,4 @@
 - Target - applicant's status as a potential student
 
  ## Result
- 0.61 F1-score on test dataset in competition.
+ 0.61 F1-score on test dataset in competition; 0.66 F1-score on validation dataset.
